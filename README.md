@@ -13,8 +13,8 @@ Jupyter notebook:
 
 ## Lekce
 1) [numpy](numpy)
+2) [pandas](pandas)
 
-[//]: # (2&#41; [pandas]&#40;pandas&#41;)
 [//]: # (3&#41; [TensorFlow]&#40;tf&#41;)
 [//]: # (4&#41; [MNIST with Keras]&#40;ml/mnist&#41;)
 [//]: # (5&#41; [Handling overfitting&#41;]&#40;ml/overfit&#41;)
