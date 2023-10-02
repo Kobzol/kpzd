@@ -14,6 +14,7 @@ Jupyter notebook:
 ## Lekce
 1) [numpy](numpy)
 2) [pandas](pandas)
+3) [Machine learning](ml/intro)
 
 [//]: # (3&#41; [TensorFlow]&#40;tf&#41;)
 [//]: # (4&#41; [MNIST with Keras]&#40;ml/mnist&#41;)
