@@ -1,6 +1,5 @@
-# Overfitting
-V této lekci si řekneme něco o problému přetrénování (overfitting) a ukážeme si, jak s ním bojovat
-(více dat, Dropout vrstva, změna learning rate a batch size).
+# Konvoluční neuronové sítě
+V této lekci si řekneme něco o konvolučních neuronových sítích.
 
 Dataset Cats vs Dogs lze najít na [Kaggle](https://www.kaggle.com/c/dogs-vs-cats). Stáhněte si jej
 a rozbalte do složek `dogs-vs-cats/train` a `dogs-vs-cats/test1`.
