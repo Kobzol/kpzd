@@ -19,6 +19,6 @@ Jupyter notebook:
 5) [(Fashion) MNIST with Keras](ml/mnist)
 6) [Handling overfitting)](ml/overfit)
 7) [Convolutional networks](ml/convnet)
+8) [Transfer learning, data augmentation](ml/transfer-learning)
 
-[//]: # (7&#41; [Transfer learning, data augmentation]&#40;ml/transfer-learning&#41;)
-[//]: # (8&#41; [Segmentation]&#40;ml/segmentation&#41;)
+9) [//]: # (8&#41; [Segmentation]&#40;ml/segmentation&#41;)
