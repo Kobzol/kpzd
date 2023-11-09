@@ -3,7 +3,7 @@ V této lekci si řekneme něco o segmentaci obrázků.
 
 ## Instalace závislosti
 ```bash
-$ pip install tensorflow
+$ pip install tensorflow segmentation-models
 ```
 
 ## Soubory

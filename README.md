@@ -20,5 +20,4 @@ Jupyter notebook:
 6) [Handling overfitting)](ml/overfit)
 7) [Convolutional networks](ml/convnet)
 8) [Transfer learning, data augmentation](ml/transfer-learning)
-
-9) [//]: # (8&#41; [Segmentation]&#40;ml/segmentation&#41;)
+9) [Segmentation](ml/segmentation)
