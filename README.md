@@ -22,3 +22,4 @@ Jupyter notebook:
 8) [Transfer learning, data augmentation](ml/transfer-learning)
 9) [Segmentation](ml/segmentation)
 10) [Generative adversarial networks](ml/gan)
+11) [Reinforcement learning](ml/rl)
