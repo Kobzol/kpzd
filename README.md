@@ -23,3 +23,5 @@ Jupyter notebook:
 9) [Segmentation](ml/segmentation)
 10) [Generative adversarial networks](ml/gan)
 11) [Reinforcement learning](ml/rl)
+
+Záznamy lekcí z běhu KPZD v akademickém roce 2023/2024 lze naleznout [zde](https://www.youtube.com/playlist?list=PLgoUJJFtqE9DQwpdoefQDlx-HaXtJ0WPY).
