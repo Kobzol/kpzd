@@ -1,4 +1,4 @@
-# Pandas
+# Tensorflow
 V této lekci si řekneme něco o knihovně [`TensorFlow`](https://www.tensorflow.org/), která slouží pro
 vysoce efektivní práci s tensory (vícedimenzionálními poli). Umožňuje nám napsat výpočet v relativně
 přehledném Python kódu, a pak ho zakompilovat do optimalizovaného výpočetního grafu, který je schopen
